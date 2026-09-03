@@ -29,6 +29,17 @@ En un contexto educativo, surge el **desafío de acercar estas condiciones ambie
 ## Objetivo 
 
 Explorar el desarrollo de un organismo artificial interactivo capaz de detectar condiciones ambientales y traducir sus variaciones en un **lenguaje corporal perceptible**, como medio para abordar este desafío desde una experiencia física e interactiva.
+### Objetivo SMART
+
+**S — Específico:** Desarrollar y explorar un organismo artificial interactivo capaz de detectar condiciones ambientales y traducirlas en un lenguaje corporal perceptible.
+
+**M — Medible:** Desarrollar un prototipo capaz de medir al menos una variable ambiental y traducir sus variaciones en respuestas físicas observables.
+
+**A — Alcanzable:** El prototipo será desarrollado mediante sensores, microcontroladores y sistemas de actuación disponibles para la experimentación durante el curso.
+
+**R — Relevante:** Permite explorar una forma física e interactiva de acercar fenómenos ambientales poco perceptibles a niños y niñas en un contexto educativo.
+
+**T — Temporal:** El desarrollo y evaluación del prototipo se realizará durante el semestre académico.
 
 
 ## Usuarios y contexto
