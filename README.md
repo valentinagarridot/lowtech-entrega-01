@@ -6,7 +6,7 @@
 **Equipo:** 3
 **Problematica:**  Percepción de fenómenos ambientales imperceptibles 
 
-!(imagenes/S01/ValentinaG)
+![Foto del equipo](imagenes/S01/ValentinaG)
 
 ## Descripción
 
