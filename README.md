@@ -28,7 +28,7 @@ En un contexto educativo, surge el **desafío de acercar estas condiciones ambie
 
 ## Objetivo 
 
-Explorar el desarrollo de un organismo artificial interactivo capaz de detectar condiciones ambientales y traducir sus variaciones en un lenguaje corporal perceptible**, como medio para abordar este desafío desde una experiencia física e interactiva.
+Explorar el desarrollo de un organismo artificial interactivo capaz de detectar condiciones ambientales y traducir sus variaciones en un **lenguaje corporal perceptible**, como medio para abordar este desafío desde una experiencia física e interactiva.
 
 
 ## Usuarios y contexto
